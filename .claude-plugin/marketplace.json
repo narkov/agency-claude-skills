@@ -1,0 +1,48 @@
+{
+  "name": "agency-toolkit",
+  "owner": {
+    "name": "Nazar Vozniak",
+    "email": "narkov@yahoo.com"
+  },
+  "metadata": {
+    "description": "Claude Code skills for digital agencies: SEO, advertising, web development, Notion docs, and Telegram reporting"
+  },
+  "plugins": [
+    {
+      "name": "seo",
+      "source": "./plugins/seo",
+      "description": "SEO audits, keyword research, backlink analysis, competitor analysis",
+      "version": "1.0.0"
+    },
+    {
+      "name": "advertising",
+      "source": "./plugins/advertising",
+      "description": "GA4 reports, ad performance analysis, conversion tracking",
+      "version": "1.0.0"
+    },
+    {
+      "name": "webdev",
+      "source": "./plugins/webdev",
+      "description": "Code review, performance audit, launch checklist",
+      "version": "1.0.0"
+    },
+    {
+      "name": "notion-docs",
+      "source": "./plugins/notion-docs",
+      "description": "Client onboarding, project updates, meeting notes in Notion",
+      "version": "1.0.0"
+    },
+    {
+      "name": "telegram-reports",
+      "source": "./plugins/telegram-reports",
+      "description": "Publish formatted reports and alerts to Telegram",
+      "version": "1.0.0"
+    },
+    {
+      "name": "client-management",
+      "source": "./plugins/client-management",
+      "description": "Monthly reports, client briefs, project health checks",
+      "version": "1.0.0"
+    }
+  ]
+}
