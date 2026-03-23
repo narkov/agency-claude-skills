@@ -19,6 +19,10 @@ A collection of Claude Code skills for digital agencies that build websites, run
 - `/launch-checklist` — pre-launch checklist (technical, SEO, performance, analytics, legal)
 - `/agency-code-review` — code review focused on performance, SEO, accessibility
 - `/page-speed` — performance analysis with optimization recommendations
+- `/deploy-vercel` — deploy to Vercel with build verification
+- `/deploy-cloudflare` — deploy to Cloudflare Pages or Workers
+- `/setup-domain` — configure domain, DNS, and SSL
+- `/post-launch` — post-launch verification (analytics, indexing, redirects, performance)
 
 ### 📝 Notion Docs (`/plugin install notion-docs@agency-toolkit`)
 - `/client-onboarding` — set up Notion workspace for a new client
